@@ -3,7 +3,7 @@ import pandas as pd
 from sqlalchemy import create_engine, text
 
 # 1. Loading Excel file (absolute path)
-excel_path = r"C:\Go to your Excel file\Right click on the file\Click Properties\Copy path here\paste here\sentiment_analysis.xlsx"
+excel_path = r"C:\Go to your Excel file\Right click on the file\Copy path here\paste here\sentiment_analysis.xlsx"
 df = pd.read_excel(excel_path)
 
 # 2. PostgreSQL Connection
