@@ -1,5 +1,11 @@
-🟢SQL querys
-
+🟢SQL querys & guide
+ 
+Basic guide  
+as for the Loading Excel file (absolute path) 
+#You will have to copy the file path of your Excel file.
+#paste it in note pad or any other word application 
+#then copy that from that application than past it on the (absolute path) section.
+  
 To check the full table👇
 SELECT * FROM analysis.sentiment_analysis;
 
