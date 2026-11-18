@@ -1,11 +1,12 @@
 🟢SQL querys & guide
- 
-Basic guide  
-as for the Loading Excel file (absolute path) 
-#You will have to copy the file path of your Excel file.
-#paste it in note pad or any other word application 
-#then copy that from that application than past it on the (absolute path) section.
-  
+
+As for the Loading Excel file (absolute path)
+Clicking on the excel file > Right click > copy as path this may not work, even though the part is correct. to be sure it works⬇️
+#1 You will have to copy the file path of your Excel file.
+#2 Paste it in note pad or any other word application 
+#3 Press Win + v (For Windows) Or Command (⌘) + 4 And clear your clipboard (to avoid any conflicts)
+#4 Now copy the file path witch you have pasted earlier on your word application, finally paste it on the (Absolute path) section
+
 To check the full table👇
 SELECT * FROM analysis.sentiment_analysis;
 
